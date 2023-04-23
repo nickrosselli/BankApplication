@@ -1,2 +1,2 @@
-# BankOfTuggs
-Trying to learn Java and this is what I've come up with! 
+# BankApplication
+Trying to learn Java, so this is what I've come up with... 
